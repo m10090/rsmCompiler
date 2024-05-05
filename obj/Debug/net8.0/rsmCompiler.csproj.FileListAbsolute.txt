@@ -1,0 +1,14 @@
+/Users/Mohamed El tamawey/rsmCompiler/bin/Debug/net8.0/rsmCompiler
+/Users/Mohamed El tamawey/rsmCompiler/bin/Debug/net8.0/rsmCompiler.deps.json
+/Users/Mohamed El tamawey/rsmCompiler/bin/Debug/net8.0/rsmCompiler.runtimeconfig.json
+/Users/Mohamed El tamawey/rsmCompiler/bin/Debug/net8.0/rsmCompiler.dll
+/Users/Mohamed El tamawey/rsmCompiler/bin/Debug/net8.0/rsmCompiler.pdb
+/Users/Mohamed El tamawey/rsmCompiler/obj/Debug/net8.0/rsmCompiler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mohamed El tamawey/rsmCompiler/obj/Debug/net8.0/rsmCompiler.AssemblyInfoInputs.cache
+/Users/Mohamed El tamawey/rsmCompiler/obj/Debug/net8.0/rsmCompiler.AssemblyInfo.cs
+/Users/Mohamed El tamawey/rsmCompiler/obj/Debug/net8.0/rsmCompiler.csproj.CoreCompileInputs.cache
+/Users/Mohamed El tamawey/rsmCompiler/obj/Debug/net8.0/rsmCompiler.dll
+/Users/Mohamed El tamawey/rsmCompiler/obj/Debug/net8.0/refint/rsmCompiler.dll
+/Users/Mohamed El tamawey/rsmCompiler/obj/Debug/net8.0/rsmCompiler.pdb
+/Users/Mohamed El tamawey/rsmCompiler/obj/Debug/net8.0/rsmCompiler.genruntimeconfig.cache
+/Users/Mohamed El tamawey/rsmCompiler/obj/Debug/net8.0/ref/rsmCompiler.dll
